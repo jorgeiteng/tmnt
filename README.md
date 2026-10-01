@@ -1,3 +1,17 @@
+> 🎓 **Course work — DevMountain, Full-Stack Web Development**
+> **Term:** January – February 2014 · **Assignment:** `tmnt` (team roster)
+>
+> **Stack:** AngularJS · angular-ui-router · Yeoman · Grunt · Bower · Karma/Jasmine
+>
+> **Demonstrates:** AngularJS custom directives (`dv-append`, `dv-color`,
+> `dv-hover`, `dv-popup`, `dv-table`), view/controller separation, and
+> `ui-router` with promises and services. Each directive is covered by a Karma
+> spec, alongside unit tests for the team/turtle services and controllers.
+>
+> The original course assignment brief is preserved below.
+
+---
+
 team-tmnt
 =========
 
