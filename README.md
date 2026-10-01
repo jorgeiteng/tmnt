@@ -1,5 +1,5 @@
 > 🎓 **Course work — DevMountain, Full-Stack Web Development**
-> **Term:** January – February 2014 · **Assignment:** `tmnt` (team roster)
+> **Term:** January – May 2014 · **Assignment:** `tmnt` (team roster)
 >
 > **Stack:** AngularJS · angular-ui-router · Yeoman · Grunt · Bower · Karma/Jasmine
 >
